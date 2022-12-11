@@ -1,4 +1,4 @@
-package com.instoof;
+package primesearcher;
 
 import java.util.concurrent.ThreadFactory;
 
